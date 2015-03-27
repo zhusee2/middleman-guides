@@ -1,5 +1,6 @@
 ---
 tw:
+  lang_attr: zh-tw
   navigation:
     contribute: 參與貢獻
     docs: 文件
