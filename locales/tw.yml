@@ -108,10 +108,11 @@ tw:
 
   # community/built-using-middleman
   built:
-    title: Sites Built Using Middleman
-    mobile: Mobile Apps Built Using Middleman
-    blog: Blogs Using Middleman
+    title: 使用 Middleman 建置的網站
+    mobile: 使用 Middleman 建置的行動 App
+    blog: 使用 Middleman 建置的網誌
     twitter: "@middlemanapp"
     github: GitHub
-    source_code: source code
-    fork: Fork and add your site on GitHub
+    source_code: 原始碼
+    desc: 這些是由 Middleman 建置而成的網站。
+    fork: 在 GitHub 上 fork 並加入你的網站
