@@ -72,31 +72,29 @@ tw:
     title: 開放源碼社群
     subtitle: Middleman 得力於一個活耀的開源社群。無論你有問題想尋求解答、
       或是想貢獻一己之力到開放源碼的功能上，我們的社群頁面都能引導你到達目的地。
-    main_text: Middleman benefits from an active community. Whether you need a
-      question answered or want to contribute to open-source features, browse
-      the features below to make the most of Middleman.
+    main_text: Middleman 得力於一個活耀的開源社群。無論你有問題想尋求解答、
+      或是想貢獻一己之力到開放源碼的功能上，都請參考下方的單元。讓我們一起使 Middleman 更臻完美。
     built_using_middleman: 採用 Middleman 的公司
     forum:
-      header: Community Forum
-      description: Use the forum to chat with other folks about Middleman.
-      link_text: Visit forum
+      header: 社群論壇
+      description: 在社群論壇上與其他人一起討論 Middleman。
+      link_text: 前往論壇
 
   contributions:
-    title: Contributions from Middleman Users
+    title: 來自 Middleman 使用者的貢獻
     deployment:
-      header: Deployment Solutions
-      description: "Whether you use Heroku or anything else to deploy, we'll
-help you do that."
-      link_text: See deployment solutions
+      header: 網站發佈工具
+      description: 無論你使用 Heroku 或其他工具來發佈你的網站，我們都會助你一臂之力。
+      link_text: 查看網站發佈工具
     extensions:
-      header: Extensions
-      description: Add interesting new capabilities and features to your Middleman website.
-      link_text: See all extensions
+      header: 擴充功能
+      description: 讓你的 Middleman 網站學會有趣的新招式，或增加新功能。
+      link_text: 查看所有擴充功能
     github: GitHub Repository
     templates:
-      header: Project Templates
-      description: Create a project with pre-made templates using your favorite code libraries.
-      link_text: See project templates
+      header: 專案範本
+      description: 挑個預先做好的範本，帶上你最愛的工具組合立即開工。
+      link_text: 查看專案範本
 
   # index
   index:
