@@ -23,4 +23,4 @@ $ middleman server
 $ middleman build
 ```
 
-在下一篇《[建立一個新網站](/tw/basics/start_new_site)》中，我們會講解這些指令的使用方式。
+在下一篇《[建立新網站](/tw/basics/start_new_site)》中，我們會講解這些指令的使用方式。

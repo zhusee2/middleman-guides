@@ -18,7 +18,7 @@ tw:
       upgrade-v4: 升級到 v4
       layouts: Layouts
       partials: Partials
-      start_new_site: 建立一個新網站
+      start_new_site: 建立新網站
       templates: 樣板語言
     advanced:
       title: 進階功能
