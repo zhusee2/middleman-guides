@@ -10,7 +10,7 @@ tw:
       title: 基礎篇
       blogging: 編寫網誌
       build_deploy: 建置與發佈
-      development_cycle: 開發週期
+      development_cycle: 開發階段
       directory_structure: 目錄結構
       frontmatter: Frontmatter
       helper_methods: Helper 方法
